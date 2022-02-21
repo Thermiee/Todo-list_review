@@ -7,7 +7,7 @@
 ![screenshot](./app_screenshot.png)
 # Live Demo
 
-https://thermiee.github.io/Todo-List/
+https://thermiee.github.io/Todo-List_review/
 ## Built With
 
 - HTML
