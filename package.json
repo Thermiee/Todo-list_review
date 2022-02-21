@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thermiee/Todo-List.git"
+    "url": "git+https://github.com/Thermiee/Todo-List_review.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Thermiee/Todo-List/issues"
+    "url": "https://github.com/Thermiee/Todo-List_review/issues"
   },
-  "homepage": "https://github.com/Thermiee/Todo-List#readme",
+  "homepage": "https://github.com/Thermiee/Todo-List_review#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.6.0",
